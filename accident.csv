@@ -1,0 +1,301 @@
+Accident_ID,State,Date,Time,Reason,Number_of_Deaths,Number_of_Injuries,Road_Type,Weather_Conditions,Alcohol_Involved,Driver_Fatigue,Road_Conditions,Speed_Limit
+1001,Andhra Pradesh,01-05-2021,15:30:00,Speeding,2,3,Rural,Sunny,No,No,Poor,60
+1002,Karnataka,02-05-2021,18:45:00,Drunk Driving,1,4,Urban,Rainy,Yes,No,Good,40
+1003,Delhi,03-05-2021,10:15:00,Poor Road Conditions,0,2,Urban,Foggy,No,No,Poor,50
+1004,Maharashtra,04-05-2021,06:00:00,Driver Fatigue,3,6,Rural,Sunny,No,Yes,Good,70
+1005,Uttar Pradesh,05-05-2021,21:20:00,Speeding,1,2,Rural,Sunny,No,No,Fair,80
+1006,Tamil Nadu,06-05-2021,12:00:00,Drunk Driving,0,1,Urban,Sunny,Yes,No,Good,30
+1007,Rajasthan,07-05-2021,14:30:00,Poor Road Conditions,2,5,Rural,Rainy,No,No,Poor,60
+1008,West Bengal,08-05-2021,08:00:00,Driver Fatigue,1,3,Urban,Sunny,No,Yes,Fair,50
+1009,Gujarat,09-05-2021,17:30:00,Speeding,0,4,Rural,Sunny,No,No,Good,60
+1010,Assam,10-05-2021,11:45:00,Poor Road Conditions,1,2,Urban,Foggy,No,No,Poor,40
+1011,Bihar,11-05-2021,19:00:00,Driver Fatigue,3,6,Rural,Sunny,No,Yes,Fair,70
+1012,Punjab,12-05-2021,06:15:00,Drunk Driving,2,4,Urban,Sunny,Yes,No,Good,30
+1013,Haryana,13-05-2021,13:20:00,Speeding,1,3,Rural,Sunny,No,No,Fair,80
+1014,Odisha,14-05-2021,16:00:00,Driver Fatigue,0,1,Urban,Rainy,No,Yes,Poor,50
+1015,Madhya Pradesh,15-05-2021,09:30:00,Poor Road Conditions,2,5,Rural,Rainy,No,No,Poor,
+1016,Jharkhand,16-05-2021,14:15:00,Drunk Driving,1,2,Urban,Foggy,Yes,No,Good,40
+1017,Chhattisgarh,17-05-2021,07:45:00,Driver Fatigue,3,6,Rural,Sunny,No,Yes,Fair,70
+1018,Manipur,18-05-2021,19:30:00,Speeding,0,4,Rural,Sunny,No,No,Good,60
+1019,Delhi,12-06-2021,08:15:00,Poor road conditions,1,5,Urban,Rainy,No,Yes,Poor,40
+1020,Karnataka,02-08-2021,20:10:00,Drunk driving,3,2,Rural,Sunny,Yes,No,Good,80
+1021,Maharashtra,05-09-2021,12:45:00,Driver fatigue,1,2,Urban,Sunny,No,Yes,Fair,50
+1022,Tamil Nadu,22-07-2021,18:20:00,Speeding,4,1,Rural,Foggy,No,No,Poor,70
+1023,Gujarat,31-08-2021,11:50:00,Drunk driving,2,4,Urban,Sunny,Yes,No,Fair,50
+1024,Punjab,19-09-2021,09:30:00,Poor road conditions,1,6,Rural,Rainy,No,No,Poor,60
+1025,Rajasthan,05-06-2021,16:25:00,Driver fatigue,1,2,Urban,Sunny,No,Yes,Good,60
+1026,Haryana,21-08-2021,21:15:00,Speeding,3,3,Rural,Sunny,No,No,Fair,90
+1027,Uttar Pradesh,15-09-2021,06:30:00,Drunk driving,2,2,Urban,Foggy,Yes,No,Good,50
+1028,West Bengal,29-06-2021,10:40:00,Poor road conditions,1,5,Rural,Sunny,No,No,Good,70
+1029,Assam,07-08-2021,14:55:00,Speeding,2,2,Urban,Rainy,No,No,Fair,50
+1030,Madhya Pradesh,09-09-2021,17:10:00,Driver fatigue,1,4,Rural,Sunny,No,Yes,Good,80
+1031,Odisha,18-07-2021,11:20:00,Poor road conditions,1,3,Urban,Sunny,No,No,Poor,60
+1032,Bihar,23-08-2021,08:45:00,Drunk driving,2,3,Rural,Foggy,Yes,No,Poor,70
+1033,Jharkhand,25-09-2021,19:30:00,Speeding,3,1,Urban,Sunny,No,No,Good,50
+1034,Chhattisgarh,15-06-2021,14:10:00,Driver fatigue,1,2,Rural,Sunny,No,Yes,Fair,60
+1035,Uttarakhand,12-08-2021,17:50:00,Poor road conditions,1,4,Urban,Rainy,No,No,Poor,50
+1036,Himachal Pradesh,29-09-2021,10:25:00,Drunk driving,3,2,Rural,Sunny,Yes,No,Good,80
+1037,Telangana,08-06-2021,13:40:00,Driver fatigue,1,1,Urban,Sunny,No,Yes,Fair,70
+1038,Goa,18-08-2021,07:30:00,Speeding,2,4,Rural,Sunny,No,No,Good,90
+1039,Karnataka,14-03-2022,08:15:00,Drunk driving,1,4,Urban,Rainy,Yes,No,Fair,50
+1040,Delhi,15-03-2022,23:45:00,Poor road conditions,0,2,Urban,Foggy,No,No,Poor,40
+1041,Gujarat,15-03-2022,18:30:00,Speeding,3,2,Rural,Sunny,Yes,No,Good,70
+1042,West Bengal,16-03-2022,13:00:00,Driver fatigue,1,1,Urban,Sunny,No,Yes,Fair,60
+1043,Maharashtra,16-03-2022,22:00:00,Poor road conditions,0,5,Rural,Sunny,No,No,Poor,50
+1044,Kerala,17-03-2022,07:30:00,Drunk driving,2,3,Rural,Foggy,Yes,No,Fair,60
+1045,Assam,17-03-2022,14:15:00,Speeding,1,2,Urban,Sunny,No,No,Fair,40
+1046,Odisha,18-03-2022,09:45:00,Driver fatigue,1,4,Urban,Rainy,No,Yes,Poor,50
+1047,Tamil Nadu,18-03-2022,19:30:00,Drunk driving,3,1,Urban,Foggy,Yes,No,Fair,60
+1048,Madhya Pradesh,19-03-2022,11:00:00,Speeding,0,3,Rural,Sunny,No,No,Good,80
+1049,Rajasthan,19-03-2022,20:45:00,Poor road conditions,2,2,Urban,Foggy,No,No,Poor,40
+1050,Chhattisgarh,20-03-2022,07:30:00,Driver fatigue,0,2,Rural,Sunny,No,Yes,Fair,60
+1051,Karnataka,15-07-2021,10:45:00,Driver Fatigue,1,4,Urban,Rainy,No,Yes,Fair,50
+1052,Maharashtra,16-07-2021,18:15:00,Poor Road Conditions,3,2,Rural,Foggy,No,No,Poor,80
+1053,Uttar Pradesh,17-07-2021,21:30:00,Drunk Driving,2,2,Urban,Sunny,Yes,No,Good,60
+1054,West Bengal,17-07-2021,09:00:00,Speeding,1,3,Rural,Sunny,No,No,Good,80
+1055,Tamil Nadu,18-07-2021,16:00:00,Poor Road Conditions,4,1,Urban,Sunny,No,No,Fair,50
+1056,Maharashtra,18-07-2021,21:15:00,Driver Fatigue,1,5,Urban,Sunny,No,Yes,Good,60
+1057,Punjab,19-07-2021,07:30:00,Drunk Driving,2,2,Urban,Sunny,Yes,No,Good,50
+1058,Andhra Pradesh,20-07-2021,14:00:00,Speeding,3,4,Rural,Sunny,No,No,Good,80
+1059,Kerala,20-07-2021,22:45:00,Driver Fatigue,2,3,Urban,Rainy,No,Yes,Poor,60
+1060,Uttar Pradesh,21-07-2021,08:15:00,Poor Road Conditions,1,6,Rural,Foggy,No,No,Poor,50
+1061,West Bengal,22-07-2021,13:30:00,Speeding,2,2,Urban,Sunny,No,No,Good,60
+1062,Maharashtra,23-07-2021,09:00:00,Poor Road Conditions,1,5,Rural,Sunny,No,No,Poor,80
+1063,Punjab,23-07-2021,19:30:00,Drunk Driving,3,3,Urban,Rainy,Yes,No,Fair,50
+1064,Tamil Nadu,24-07-2021,11:45:00,Driver Fatigue,2,2,Urban,Sunny,No,Yes,Fair,60
+1065,Andhra Pradesh,25-07-2021,08:00:00,Poor Road Conditions,4,1,Rural,Foggy,No,No,Good,80
+1066,Kerala,25-07-2021,14:15:00,Speeding,1,4,Urban,Sunny,No,No,Fair,50
+1067,Maharashtra,26-07-2021,21:30:00,Drunk Driving,2,2,Urban,Sunny,Yes,No,Good,60
+1068,Uttar Pradesh,27-07-2021,15:00:00,Driver Fatigue,1,5,Rural,Sunny,No,Yes,Good,80
+1069,West Bengal,28-07-2021,17:45:00,Poor Road Conditions,3,3,Urban,Rainy,No,No,Poor,50
+1070,Tamil Nadu,29-07-2021,09:30:00,Drunk Driving,2,2,Urban,Sunny,Yes,No,Good,60
+1071,Maharashtra,15-05-2021,02:45:00,Poor road conditions,1,4,Urban,Foggy,No,Yes,Poor,50
+1072,West Bengal,16-05-2021,08:20:00,Drunk driving,3,2,Rural,Rainy,Yes,No,Good,80
+1073,Andhra Pradesh,17-05-2021,19:10:00,Speeding,1,2,Urban,Sunny,No,Yes,Fair,60
+1074,Karnataka,18-05-2021,12:15:00,Driver fatigue,2,5,Rural,Sunny,No,Yes,Poor,70
+1075,Assam,19-05-2021,14:30:00,Poor road conditions,1,1,Urban,Rainy,No,No,Poor,40
+1076,Tamil Nadu,20-05-2021,17:00:00,Speeding,1,3,Rural,Sunny,No,No,Good,90
+1077,Uttar Pradesh,21-05-2021,09:45:00,Driver fatigue,2,2,Urban,Sunny,No,Yes,Poor,50
+1078,Kerala,22-05-2021,21:30:00,Drunk driving,4,1,Rural,Foggy,Yes,No,Poor,60
+1079,Maharashtra,23-05-2021,06:55:00,Poor road conditions,1,4,Urban,Rainy,No,No,Fair,40
+1080,West Bengal,24-05-2021,15:10:00,Speeding,2,3,Rural,Sunny,No,No,Good,70
+1081,Andhra Pradesh,25-05-2021,11:40:00,Driver fatigue,1,1,Urban,Sunny,No,Yes,Poor,50
+1082,Karnataka,26-05-2021,16:15:00,Drunk driving,3,2,Rural,Sunny,Yes,No,Poor,80
+1083,Assam,27-05-2021,03:20:00,Poor road conditions,1,2,Urban,Foggy,No,Yes,Poor,60
+1084,Tamil Nadu,28-05-2021,13:30:00,Speeding,1,1,Rural,Sunny,No,No,Good,90
+1085,Uttar Pradesh,29-05-2021,19:45:00,Driver fatigue,2,3,Urban,Sunny,No,Yes,Poor,50
+1086,Kerala,30-05-2021,07:20:00,Drunk driving,4,2,Rural,Rainy,Yes,No,Poor,60
+1087,Maharashtra,31-05-2021,16:10:00,Poor road conditions,1,1,Urban,Sunny,No,No,Good,40
+1088,West Bengal,01-06-2021,11:30:00,Speeding,2,2,Rural,Sunny,No,No,Good,70
+1089,Andhra Pradesh,02-06-2021,03:55:00,Driver fatigue,1,3,Urban,Sunny,No,Yes,Poor,50
+1090,Karnataka,03-06-2021,18:20:00,Drunk driving,3,1,Rural,Sunny,Yes,No,Poor,80
+1091,Tamil Nadu,20-06-2021,22:15:00,Drunk Driving,3,2,Urban,Rainy,Yes,No,Good,50
+1092,Karnataka,21-06-2021,07:30:00,Driver Fatigue,1,4,Rural,Sunny,No,Yes,Poor,70
+1093,Maharashtra,21-06-2021,18:45:00,Poor Road Conditions,0,6,Urban,Foggy,No,No,Poor,40
+1094,Gujarat,22-06-2021,10:20:00,Speeding,2,3,Rural,Sunny,No,No,Fair,60
+1095,Punjab,23-06-2021,14:05:00,Drunk Driving,4,1,Urban,Rainy,Yes,No,Poor,50
+1096,Haryana,24-06-2021,05:55:00,Speeding,1,2,Rural,Sunny,No,No,Good,70
+1097,Andhra Pradesh,25-06-2021,12:40:00,Driver Fatigue,2,3,Urban,Sunny,No,Yes,Poor,50
+1098,Karnataka,26-06-2021,19:30:00,Speeding,3,2,Rural,Sunny,No,No,Fair,60
+1099,Maharashtra,27-06-2021,08:15:00,Drunk Driving,1,4,Urban,Foggy,Yes,No,Poor,40
+1100,Gujarat,28-06-2021,15:25:00,Poor Road Conditions,0,5,Rural,Sunny,No,No,Good,70
+1101,Assam,15-03-2022,23:45:00,Poor road conditions,1,2,Rural,Foggy,No,No,Poor,50
+1102,Gujarat,20-03-2022,17:10:00,Speeding,3,4,Urban,Sunny,Yes,No,Good,60
+1103,Maharashtra,22-03-2022,08:20:00,Drunk driving,2,1,Urban,Sunny,Yes,No,Good,50
+1104,Assam,24-03-2022,10:15:00,Driver fatigue,1,3,Rural,Rainy,No,Yes,Fair,40
+1105,Karnataka,27-03-2022,19:30:00,Speeding,4,2,Urban,Foggy,Yes,No,Poor,60
+1106,Andhra Pradesh,29-03-2022,06:45:00,Poor road conditions,1,1,Urban,Rainy,No,No,Poor,50
+1107,Kerala,02-04-2022,11:20:00,Speeding,2,1,Urban,Sunny,Yes,No,Good,60
+1108,Madhya Pradesh,04-04-2022,14:30:00,Drunk driving,3,3,Rural,Sunny,Yes,No,Poor,50
+1109,Gujarat,06-04-2022,09:15:00,Poor road conditions,1,4,Urban,Rainy,No,No,Poor,60
+1110,Odisha,08-04-2022,20:30:00,Driver fatigue,2,2,Rural,Foggy,No,Yes,Good,40
+1111,Rajasthan,11-04-2022,12:10:00,Speeding,1,1,Urban,Sunny,Yes,No,Fair,50
+1112,Tamil Nadu,15-04-2022,18:00:00,Drunk driving,3,3,Urban,Sunny,Yes,No,Fair,60
+1113,Assam,18-04-2022,07:45:00,Poor road conditions,1,2,Rural,Rainy,No,No,Good,50
+1114,Punjab,20-04-2022,15:20:00,Driver fatigue,1,1,Urban,Sunny,No,Yes,Poor,60
+1115,Karnataka,23-04-2022,11:30:00,Speeding,2,1,Rural,Foggy,Yes,No,Good,40
+1116,Andhra Pradesh,25-04-2022,22:10:00,Drunk driving,1,3,Urban,Sunny,Yes,No,Poor,50
+1117,Kerala,27-04-2022,09:30:00,Poor road conditions,1,2,Urban,Rainy,No,No,Fair,60
+1118,Maharashtra,30-04-2022,16:15:00,Driver fatigue,2,4,Rural,Sunny,No,Yes,Good,50
+1119,Tamil Nadu,01-05-2022,08:40:00,Speeding,1,1,Urban,Sunny,Yes,No,Fair,60
+1120,Gujarat,04-05-2022,19:00:00,Drunk driving,3,2,Rural,Foggy,Yes,No,Poor,40
+1121,Maharashtra,05-06-2021,08:45:00,Poor road conditions,1,4,Urban,Rainy,No,No,Poor,40
+1122,Karnataka,06-06-2021,19:15:00,Speeding,1,2,Rural,Sunny,Yes,No,Good,80
+1123,Tamil Nadu,07-06-2021,06:30:00,Driver fatigue,3,1,Urban,Sunny,No,Yes,Good,50
+1124,Rajasthan,08-06-2021,11:00:00,Speeding,2,2,Rural,Sunny,No,No,Poor,60
+1125,Andhra Pradesh,09-06-2021,14:20:00,Drunk driving,1,3,Urban,Sunny,Yes,No,Fair,50
+1126,Gujarat,10-06-2021,21:10:00,Speeding,1,1,Rural,Sunny,No,No,Good,70
+1127,Kerala,11-06-2021,03:30:00,Driver fatigue,2,2,Urban,Sunny,No,Yes,Good,40
+1128,Maharashtra,12-06-2021,12:15:00,Poor road conditions,1,4,Urban,Rainy,No,No,Poor,50
+1129,Karnataka,13-06-2021,16:40:00,Speeding,3,1,Rural,Sunny,Yes,No,Good,90
+1130,Tamil Nadu,14-06-2021,08:55:00,Driver fatigue,2,2,Urban,Sunny,No,Yes,Good,40
+1131,West Bengal,03-02-2022,08:15:00,Speeding,1,4,Urban,Snowy,Yes,No,Poor,50
+1132,Odisha,14-11-2021,22:00:00,Drunk driving,2,2,Rural,Rainy,Yes,No,Good,70
+1133,Andhra Pradesh,01-01-2022,04:30:00,Driver fatigue,1,3,Rural,Sunny,No,Yes,Good,60
+1134,Gujarat,19-03-2022,19:20:00,Poor road conditions,0,5,Urban,Foggy,No,No,Poor,40
+1135,Maharashtra,11-10-2021,11:40:00,Speeding,3,0,Urban,Sunny,No,No,Fair,50
+1136,Karnataka,05-04-2022,06:45:00,Drunk driving,1,4,Urban,Sunny,Yes,No,Fair,60
+1137,Delhi,12-12-2021,21:00:00,Speeding,0,2,Urban,Rainy,Yes,No,Poor,50
+1138,Uttar Pradesh,09-05-2022,14:30:00,Poor road conditions,2,3,Rural,Sunny,No,No,Poor,80
+1139,Chhattisgarh,23-02-2022,16:00:00,Driver fatigue,1,1,Rural,Sunny,No,Yes,Good,60
+1140,Tamil Nadu,05-03-2022,23:30:00,Speeding,4,0,Urban,Foggy,No,No,Poor,40
+1141,Kerala,21-10-2021,03:15:00,Drunk driving,1,3,Rural,Sunny,Yes,No,Fair,70
+1142,Assam,20-04-2022,10:30:00,Driver fatigue,0,2,Rural,Sunny,No,Yes,Fair,60
+1143,Rajasthan,07-11-2021,17:00:00,Speeding,2,1,Urban,Sunny,No,No,Poor,50
+1144,Madhya Pradesh,12-01-2022,06:20:00,Poor road conditions,0,6,Rural,Sunny,No,No,Good,60
+1145,Jharkhand,07-02-2022,14:50:00,Drunk driving,3,2,Rural,Sunny,Yes,No,Poor,70
+1146,Punjab,15-03-2022,19:30:00,Driver fatigue,1,0,Urban,Rainy,No,Yes,Poor,50
+1147,Haryana,29-10-2021,22:15:00,Speeding,0,3,Rural,Sunny,No,No,Fair,60
+1148,Tamil Nadu,22-02-2022,09:15:00,Poor road conditions,1,4,Urban,Foggy,No,Yes,Poor,40
+1149,Andhra Pradesh,05-03-2022,16:30:00,Drunk driving,3,2,Rural,Rainy,Yes,No,Fair,80
+1150,Karnataka,15-03-2022,10:20:00,Speeding,2,5,Urban,Sunny,No,No,Good,60
+1151,Maharashtra,25-03-2022,19:40:00,Driver fatigue,1,3,Rural,Clear,No,Yes,Good,80
+1152,Assam,07-04-2022,06:15:00,Speeding,3,1,Urban,Foggy,No,No,Good,50
+1153,Kerala,18-04-2022,14:10:00,Drunk driving,2,2,Rural,Rainy,Yes,No,Poor,60
+1154,Odisha,28-04-2022,08:00:00,Poor road conditions,1,6,Urban,Foggy,No,No,Poor,50
+1155,Rajasthan,05-05-2022,11:30:00,Driver fatigue,2,4,Rural,Sunny,No,Yes,Fair,70
+1156,Telangana,15-05-2022,13:20:00,Speeding,1,2,Urban,Sunny,No,No,Good,60
+1157,Chhattisgarh,28-05-2022,18:15:00,Drunk driving,4,3,Rural,Rainy,Yes,No,Poor,40
+1158,West Bengal,07-06-2022,20:00:00,Poor road conditions,2,5,Urban,Foggy,No,No,Fair,50
+1159,Delhi,19-06-2022,22:10:00,Driver fatigue,1,2,Rural,Clear,No,Yes,Good,60
+1160,Goa,02-07-2022,17:30:00,Speeding,3,3,Urban,Sunny,No,No,Poor,70
+1161,Haryana,11-07-2022,14:20:00,Drunk driving,2,2,Rural,Rainy,Yes,No,Good,80
+1162,Manipur,25-07-2022,06:45:00,Poor road conditions,1,4,Urban,Foggy,No,No,Poor,40
+1163,Meghalaya,01-08-2022,11:10:00,Speeding,3,1,Rural,Sunny,No,No,Fair,60
+1164,Mizoram,15-08-2022,15:40:00,Driver fatigue,1,2,Urban,Sunny,No,Yes,Good,50
+1165,Nagaland,28-08-2022,19:20:00,Drunk driving,2,3,Rural,Rainy,Yes,No,Good,80
+1166,Punjab,06-09-2022,08:00:00,Speeding,1,3,Urban,Sunny,No,No,Poor,70
+1167,Sikkim,20-09-2022,10:30:00,Poor road conditions,1,5,Rural,Foggy,No,No,Good,50
+1168,Sikkim,20-09-2022,10:30:00,Poor road conditions,1,5,Rural,Foggy,No,No,Good,50
+1169,Tamil Nadu,12-02-2022,06:15:00,Poor road conditions,2,5,Urban,Rainy,No,No,Poor,40
+1170,Karnataka,14-02-2022,13:30:00,Speeding,1,3,Rural,Sunny,No,Yes,Fair,80
+1171,Maharashtra,14-02-2022,21:45:00,Drunk driving,3,2,Urban,Foggy,Yes,No,Fair,60
+1172,Uttar Pradesh,15-02-2022,08:00:00,Driver fatigue,1,4,Rural,Sunny,No,Yes,Good,70
+1173,Andhra Pradesh,16-02-2022,12:15:00,Poor road conditions,2,2,Rural,Sunny,No,No,Fair,50
+1174,Telangana,17-02-2022,18:30:00,Speeding,1,6,Urban,Foggy,No,Yes,Good,60
+1175,Rajasthan,18-02-2022,22:00:00,Drunk driving,4,1,Rural,Rainy,Yes,No,Poor,80
+1176,Odisha,20-02-2022,16:45:00,Driver fatigue,2,3,Urban,Sunny,No,Yes,Fair,40
+1177,Kerala,20-02-2022,08:30:00,Poor road conditions,3,2,Rural,Foggy,No,No,Good,60
+1178,Gujarat,22-02-2022,14:00:00,Speeding,1,3,Urban,Rainy,No,No,Poor,50
+1179,Assam,22-02-2022,17:45:00,Drunk driving,2,4,Rural,Sunny,Yes,No,Poor,70
+1180,Punjab,23-02-2022,09:30:00,Driver fatigue,3,2,Urban,Foggy,No,Yes,Good,80
+1181,Haryana,24-02-2022,22:00:00,Poor road conditions,1,5,Rural,Sunny,No,No,Fair,40
+1182,Jharkhand,26-02-2022,13:15:00,Speeding,2,3,Urban,Sunny,Yes,No,Fair,60
+1183,Madhya Pradesh,26-02-2022,07:30:00,Drunk driving,3,2,Rural,Foggy,Yes,No,Good,50
+1184,West Bengal,27-02-2022,16:45:00,Driver fatigue,1,4,Urban,Sunny,No,Yes,Poor,70
+1185,Bihar,28-02-2022,19:30:00,Poor road conditions,2,3,Rural,Rainy,No,No,Fair,80
+1186,Uttarakhand,01-03-2022,11:00:00,Speeding,1,2,Urban,Sunny,No,Yes,Good,50
+1187,Maharashtra,01-01-2022,02:45:00,Drunk driving,3,2,Rural,Rainy,Yes,No,Fair,60
+1188,West Bengal,01-01-2022,12:30:00,Poor road conditions,1,4,Urban,Foggy,No,Yes,Poor,50
+1189,Telangana,01-01-2022,17:20:00,Speeding,2,1,Urban,Sunny,No,Yes,Good,50
+1190,Karnataka,02-01-2022,09:15:00,Drunk driving,4,0,Rural,Sunny,Yes,No,Fair,70
+1191,Gujarat,02-01-2022,20:05:00,Driver fatigue,1,2,Urban,Rainy,No,Yes,Poor,40
+1192,Andhra Pradesh,03-01-2022,03:30:00,Drunk driving,2,3,Rural,Foggy,Yes,No,Fair,60
+1193,Madhya Pradesh,03-01-2022,13:45:00,Poor road conditions,0,5,Urban,Sunny,No,No,Fair,40
+1194,Tamil Nadu,03-01-2022,21:10:00,Drunk driving,3,1,Urban,Rainy,Yes,No,Good,50
+1195,Uttar Pradesh,04-01-2022,06:20:00,Speeding,1,2,Rural,Sunny,No,No,Poor,60
+1196,Maharashtra,04-01-2022,16:30:00,Driver fatigue,2,1,Urban,Foggy,No,Yes,Poor,40
+1197,Delhi,05-01-2022,05:45:00,Drunk driving,3,2,Rural,Sunny,Yes,No,Fair,70
+1198,Karnataka,05-01-2022,14:20:00,Speeding,1,4,Urban,Sunny,No,Yes,Good,50
+1199,Gujarat,06-01-2022,22:15:00,Poor road conditions,2,3,Urban,Rainy,No,No,Poor,40
+1200,Andhra Pradesh,07-01-2022,08:10:00,Drunk driving,4,0,Rural,Sunny,Yes,No,Good,60
+1201,Tamil Nadu,07-01-2022,18:20:00,Driver fatigue,0,5,Urban,Foggy,No,Yes,Fair,50
+1202,West Bengal,08-01-2022,03:30:00,Drunk driving,3,2,Rural,Rainy,Yes,No,Fair,60
+1203,Delhi,08-01-2022,11:40:00,Poor road conditions,1,2,Urban,Sunny,No,Yes,Poor,50
+1204,Gujarat,06-01-2022,22:15:00,Poor road conditions,2,3,Urban,Rainy,No,No,Poor,40
+1205,Andhra Pradesh,15-02-2022,19:30:00,Drunk driving,2,4,Urban,Foggy,Yes,Yes,Poor,50
+1206,Kerala,16-02-2022,07:15:00,Speeding,1,3,Rural,Sunny,No,No,Good,70
+1207,Assam,16-02-2022,16:50:00,Drunk driving,3,1,Rural,Sunny,Yes,No,Poor,60
+1208,Delhi,17-02-2022,22:30:00,Poor road conditions,1,5,Urban,Snowy,No,No,Poor,50
+1209,Haryana,18-02-2022,10:00:00,Driver fatigue,2,2,Rural,Sunny,No,Yes,Good,60
+1210,Maharashtra,18-02-2022,15:20:00,Drunk driving,4,0,Urban,Rainy,Yes,No,Poor,40
+1211,Tamil Nadu,19-02-2022,05:45:00,Speeding,1,3,Rural,Sunny,No,No,Good,70
+1212,Gujarat,20-02-2022,21:00:00,Driver fatigue,3,2,Urban,Sunny,No,Yes,Good,50
+1213,Rajasthan,21-02-2022,14:15:00,Drunk driving,2,1,Rural,Sunny,Yes,No,Poor,60
+1214,Karnataka,22-02-2022,18:30:00,Speeding,1,2,Urban,Foggy,No,No,Poor,40
+1215,West Bengal,23-02-2022,09:00:00,Poor road conditions,3,4,Rural,Rainy,No,No,Fair,50
+1216,Odisha,24-02-2022,12:45:00,Drunk driving,4,0,Urban,Sunny,Yes,No,Fair,60
+1217,Madhya Pradesh,25-02-2022,07:20:00,Driver fatigue,1,3,Rural,Sunny,No,Yes,Good,70
+1218,Punjab,26-02-2022,20:15:00,Drunk driving,2,2,Urban,Sunny,Yes,No,Good,50
+1219,Chhattisgarh,27-02-2022,16:10:00,Speeding,1,1,Rural,Sunny,No,No,Good,80
+1220,Uttar Pradesh,28-02-2022,03:30:00,Drunk driving,3,0,Urban,Rainy,Yes,No,Fair,60
+1221,Jharkhand,01-03-2022,09:40:00,Speeding,2,2,Rural,Sunny,No,No,Good,60
+1222,Manipur,02-03-2022,14:25:00,Drunk driving,4,1,Rural,Sunny,Yes,No,Poor,50
+1223,Maharashtra,15-02-2022,10:15:00,Speeding,2,5,Urban,Foggy,No,No,Good,50
+1224,Andhra Pradesh,16-02-2022,23:30:00,Drunk driving,4,1,Rural,Sunny,Yes,No,Poor,70
+1225,Delhi,17-02-2022,07:00:00,Driver fatigue,1,3,Urban,Sunny,No,Yes,Good,40
+1226,West Bengal,18-02-2022,16:20:00,Poor road conditions,2,2,Rural,Rainy,No,No,Poor,60
+1227,Assam,19-02-2022,19:15:00,Speeding,3,2,Urban,Sunny,No,No,Good,50
+1228,Odisha,20-02-2022,12:00:00,Drunk driving,5,3,Rural,Sunny,Yes,No,Good,60
+1229,Karnataka,21-02-2022,18:45:00,Driver fatigue,1,4,Urban,Sunny,No,Yes,Fair,40
+1230,Andhra Pradesh,22-02-2022,06:30:00,Poor road conditions,2,2,Rural,Rainy,No,No,Poor,60
+1231,Maharashtra,23-02-2022,14:00:00,Drunk driving,4,1,Urban,Sunny,Yes,No,Good,50
+1232,Delhi,24-02-2022,21:15:00,Speeding,2,3,Urban,Foggy,No,No,Good,40
+1233,West Bengal,25-02-2022,11:30:00,Driver fatigue,1,2,Rural,Sunny,No,Yes,Good,60
+1234,Assam,26-02-2022,18:00:00,Poor road conditions,3,1,Urban,Rainy,No,No,Poor,50
+1235,Odisha,27-02-2022,08:45:00,Speeding,2,5,Rural,Sunny,No,No,Good,60
+1236,Karnataka,28-02-2022,14:20:00,Drunk driving,3,2,Rural,Sunny,Yes,No,Good,70
+1237,Andhra Pradesh,01-03-2022,17:00:00,Poor road conditions,1,3,Urban,Sunny,No,No,Fair,40
+1238,Maharashtra,02-03-2022,05:30:00,Speeding,2,2,Rural,Foggy,No,No,Poor,60
+1239,Delhi,03-03-2022,12:15:00,Drunk driving,5,1,Urban,Sunny,Yes,No,Good,50
+1240,West Bengal,04-03-2022,20:00:00,Driver fatigue,2,3,Rural,Sunny,No,Yes,Good,60
+1241,Odisha,07-05-2022,11:20:00,Speeding,2,1,Rural,Sunny,Yes,No,Poor,60
+1242,Madhya Pradesh,09-05-2022,22:30:00,Drunk driving,3,3,Urban,Rainy,Yes,No,Fair,50
+1243,Assam,12-05-2022,08:15:00,Driver fatigue,1,2,Rural,Foggy,No,Yes,Good,40
+1244,Punjab,15-05-2022,14:10:00,Poor road conditions,1,1,Urban,Sunny,No,No,Poor,50
+1245,Andhra Pradesh,17-05-2022,19:45:00,Speeding,2,1,Rural,Sunny,Yes,No,Fair,60
+1246,Karnataka,20-05-2022,09:30:00,Drunk driving,3,2,Urban,Rainy,Yes,No,Poor,50
+1247,Tamil Nadu,23-05-2022,17:20:00,Poor road conditions,1,2,Rural,Foggy,No,No,Good,40
+1248,Gujarat,25-05-2022,12:10:00,Driver fatigue,2,3,Urban,Sunny,No,Yes,Good,50
+1249,Rajasthan,27-05-2022,20:30:00,Speeding,1,1,Rural,Sunny,Yes,No,Poor,60
+1250,Assam,30-05-2022,10:15:00,Poor road conditions,1,2,Urban,Rainy,No,No,Fair,50
+1251,Punjab,01-06-2022,16:40:00,Driver fatigue,1,1,Rural,Sunny,No,Yes,Poor,40
+1252,Andhra Pradesh,04-06-2022,08:20:00,Drunk driving,2,1,Urban,Foggy,Yes,No,Good,50
+1253,Kerala,06-06-2022,17:00:00,Speeding,3,2,Rural,Sunny,Yes,No,Fair,60
+1254,Maharashtra,09-06-2022,12:30:00,Poor road conditions,1,2,Urban,Rainy,No,No,Good,50
+1255,Tamil Nadu,11-06-2022,19:20:00,Driver fatigue,2,4,Rural,Sunny,No,Yes,Poor,40
+1256,Gujarat,14-06-2022,09:10:00,Speeding,1,1,Urban,Foggy,Yes,No,Good,50
+1257,Odisha,16-06-2022,18:30:00,Drunk driving,3,3,Rural,Rainy,Yes,No,Poor,60
+1258,Rajasthan,19-06-2022,07:45:00,Poor road conditions,1,1,Urban,Sunny,No,No,Fair,50
+1259,Madhya Pradesh,21-06-2022,14:30:00,Driver fatigue,2,3,Rural,Sunny,No,Yes,Good,40
+1260,Karnataka,24-06-2022,21:20:00,Speeding,1,2,Urban,Rainy,Yes,No,Poor,50
+1261,Andhra Pradesh,01-05-2023,09:30:00,Speeding,2,3,Rural,Sunny,No,No,Poor,60
+1262,Karnataka,02-05-2023,12:45:00,Drunk Driving,1,4,Urban,Rainy,Yes,No,Good,40
+1263,Delhi,03-05-2023,08:15:00,Poor Road Conditions,0,2,Urban,Foggy,No,No,Poor,50
+1264,Maharashtra,04-05-2023,10:00:00,Driver Fatigue,3,6,Rural,Sunny,No,Yes,Good,70
+1265,Uttar Pradesh,05-05-2023,17:20:00,Speeding,1,2,Rural,Sunny,No,No,Fair,80
+1266,Tamil Nadu,06-05-2023,11:00:00,Drunk Driving,0,1,Urban,Sunny,Yes,No,Good,30
+1267,Rajasthan,07-05-2023,13:30:00,Poor Road Conditions,2,5,Rural,Rainy,No,No,Poor,60
+1268,West Bengal,08-05-2023,07:00:00,Driver Fatigue,1,3,Urban,Sunny,No,Yes,Fair,50
+1269,Gujarat,09-05-2023,16:30:00,Speeding,0,4,Rural,Sunny,No,No,Good,60
+1270,Assam,10-05-2023,10:45:00,Poor Road Conditions,1,2,Urban,Foggy,No,No,Poor,40
+1271,Bihar,11-05-2023,18:00:00,Driver Fatigue,3,6,Rural,Sunny,No,Yes,Fair,70
+1272,Punjab,12-05-2023,05:15:00,Drunk Driving,2,4,Urban,Sunny,Yes,No,Good,30
+1273,Haryana,13-05-2023,12:20:00,Speeding,1,3,Rural,Sunny,No,No,Fair,80
+1274,Odisha,14-05-2023,15:00:00,Driver Fatigue,0,1,Urban,Rainy,No,Yes,Poor,50
+1275,Madhya Pradesh,15-05-2023,08:30:00,Poor Road Conditions,2,5,Rural,Rainy,No,No,Poor,60
+1276,Jharkhand,16-05-2023,13:15:00,Drunk Driving,1,2,Urban,Foggy,Yes,No,Good,40
+1277,Chhattisgarh,17-05-2023,06:45:00,Driver Fatigue,3,6,Rural,Sunny,No,Yes,Fair,70
+1278,Manipur,18-05-2023,18:30:00,Speeding,0,4,Rural,Sunny,No,No,Good,60
+1279,Delhi,12-06-2023,07:15:00,Poor road conditions,1,5,Urban,Rainy,No,Yes,Poor,40
+1280,West Bengal,08-05-2023,07:00:00,Driver Fatigue,1,3,Urban,Sunny,No,Yes,Fair,50
+1281,Chhattisgarh,01-04-2022,09:15:00,Speeding,3,1,Urban,Sunny,Yes,No,Poor,60
+1282,Maharashtra,02-04-2022,18:20:00,Drunk driving,2,2,Rural,Sunny,Yes,No,Fair,70
+1283,Andhra Pradesh,03-04-2022,12:30:00,Speeding,1,4,Urban,Rainy,Yes,No,Good,80
+1284,Odisha,04-04-2022,08:40:00,Driver fatigue,0,5,Rural,Foggy,No,Yes,Poor,40
+1285,Telangana,05-04-2022,16:55:00,Poor road conditions,2,3,Urban,Sunny,No,No,Fair,60
+1286,Kerala,06-04-2022,06:00:00,Speeding,1,1,Rural,Sunny,No,Yes,Fair,50
+1287,Assam,07-04-2022,19:45:00,Driver fatigue,1,2,Urban,Rainy,No,Yes,Good,40
+1288,Gujarat,08-04-2022,21:10:00,Poor road conditions,3,0,Urban,Snowy,No,No,Good,80
+1289,Rajasthan,09-04-2022,15:30:00,Speeding,2,1,Rural,Sunny,Yes,No,Poor,60
+1290,Karnataka,10-04-2022,08:15:00,Drunk driving,1,4,Rural,Sunny,Yes,No,Fair,70
+1291,Andhra Pradesh,11-04-2022,12:00:00,Speeding,0,5,Urban,Sunny,No,No,Poor,50
+1292,Tamil Nadu,12-04-2022,04:20:00,Driver fatigue,2,2,Urban,Rainy,Yes,No,Good,40
+1293,Madhya Pradesh,13-04-2022,22:30:00,Poor road conditions,1,3,Rural,Sunny,No,Yes,Good,60
+1294,Chhattisgarh,14-04-2022,10:45:00,Speeding,3,0,Rural,Sunny,Yes,No,Poor,50
+1295,Maharashtra,15-04-2022,14:20:00,Driver fatigue,2,2,Urban,Foggy,Yes,No,Good,40
+1296,Odisha,16-04-2022,16:30:00,Poor road conditions,1,1,Rural,Sunny,No,Yes,Fair,70
+1297,Karnataka,17-04-2022,08:50:00,Speeding,0,4,Urban,Sunny,No,No,Fair,50
+1298,Andhra Pradesh,18-04-2022,03:00:00,Driver fatigue,1,2,Rural,Sunny,No,Yes,Good,40
+1299,Telangana,19-04-2022,20:10:00,Speeding,3,1,Rural,Snowy,Yes,No,Poor,60
+1300,Kerala,20-04-2022,11:45:00,Drunk driving,2,2,Urban,Rainy,Yes,No,Poor,70
